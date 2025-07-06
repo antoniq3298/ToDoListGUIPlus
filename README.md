@@ -1,6 +1,7 @@
 # 📝 ToDoListGUIPlus
 
-A simple yet expandable Java desktop To-Do List application built with Swing and SQLite.  
+A simple yet expandable Java desktop To-Do List application built with Swin![Screenshot 2025-06-12 210252](https://github.com/user-attachments/assets/5f3272dd-aab6-461e-ac25-d584f9fc86a6)
+g and SQLite.  
 The app allows users to add tasks with a title, status, and priority, and stores them persistently in a local database.
 
 ---
